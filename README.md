@@ -1,2 +1,3 @@
 # Web-Scraping-NBA-MVP
-* 3 part Machine Learning project, to try to predict who will be the MVP in a given MBA season and for that we need a lot of data about the players and their statistics. s types of data and load them into Pandas to facilitate analysis.
+Machine Learning project divided into 3 phases, with the objective of trying to predict who will be the MVP in a particular MBA season and using data from the website ["https://www.basketball-reference.com/awards/awards_{} .html"].
+Player statistics, games and MVP votes.
